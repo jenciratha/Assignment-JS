@@ -1,0 +1,50 @@
+.image1{
+    float: right;
+    margin-right: 200px;
+}
+.navbar-nav{
+    margin-left: 60%;
+}
+.navbar-brand{
+    font-style: italic;
+    color:darkslategray;
+}
+.btn{
+    border-radius: 20px;
+    background-color: orangered;
+    border: none;
+}
+.para3{
+    margin-right: 200px;
+    color: rgb(61, 112, 112);
+}
+.hc1{
+    color: darkolivegreen;
+}
+.head1{
+    display: grid; 
+    grid-template-columns: auto auto auto auto;
+    margin-left:200px ;
+}
+.head2{
+    margin-top: 50px;
+}
+.head3{
+    margin-top: 50px;
+}
+.head4{
+    margin-top: 50px;
+}
+.head5{
+    margin-top: 50px;
+}
+.foot{
+    background-color: gray;
+    margin-bottom: auto;
+    
+}
+  
+img:hover{
+    transform: scale(1.1);
+  }
+  

@@ -1,0 +1,144 @@
+.navbar-nav{
+    margin-left: 60%;
+   
+
+}
+.navbar-brand{
+    font-style: italic;
+    color: lightskyblue;
+}
+.btn{
+    border-radius: 30px;
+    background-color: orangered;
+    border: none;
+}
+.section2{
+  min-height: 400px;
+  width:auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    background-color: rgb(194, 187, 194);
+
+}
+.sec5{
+  min-height: 400px;
+  /* display: flex; */
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  
+}
+.para1{
+    align-items: center;
+}
+.col-lg-7{text-align: center;}
+
+.but{
+    background-color: darkslategrey;
+    border: none;
+    width: 100px;
+    height: 50px;
+    border-radius : 30%;
+}
+
+.para2{
+    align-items: center;
+}
+.sec1{
+    background-color: aliceblue;
+    
+}
+.sec2{
+    float: left;
+}
+.sec3{
+    float: right;
+}
+.bes1{
+    display: grid; 
+    grid-template-columns: auto auto auto auto;
+    margin-left: 200px;
+}
+.bes2{
+    margin-top: 50px;
+}
+.bes3{
+    margin-top: 50px;
+}
+.bes4{
+    margin-top: 50px;
+}
+.food1{
+    margin-top: 50px;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color:white;
+    padding: 5px;
+  }
+  .grid-item {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 50px;
+    padding: 5px;
+   
+  }
+  
+  .spec{
+    text-align: center;
+  }
+  .spec1{
+    text-align: center;
+  }
+  .src{
+    margin-left: 450px ;
+    border-color: dimgrey;
+  }
+  .port{
+    text-align: center;
+    border-color: cornflowerblue;
+  }
+  .country{
+    text-align: center;
+    border-color: cornflowerblue;
+  }
+  .foot{
+    text-align: center;
+  }
+  .hv{
+    text-align: center;
+  }
+  .hv1{
+    text-align: center;
+  }
+  /* .from{
+    min-height: 400px;
+  } */
+   .sec6{
+    width: 1200px;
+
+height: 300px;
+
+margin: 0px 350px 140px 0px;
+padding-left: 50px;
+padding-top: 60px;
+
+   }
+   body{
+    margin-left:0%;
+    margin-right: 0%;
+   }
+   #heading3{
+    padding-top: -20px;
+   }
+
+   .nav-link.active {
+    color: blue;
+  }
+
+  img:hover{
+    transform: scale(1.1);
+  }
+
+  
